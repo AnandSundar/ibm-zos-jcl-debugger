@@ -10,8 +10,6 @@
 [![Status](https://img.shields.io/badge/Job%20Status-CC%200000%20✅-brightgreen?style=for-the-badge)](https://github.com)
 [![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
-<img src="docs/images/ibm_z_hero.png" width="600" alt="IBM Z Xplore Banner"/>
-
 </div>
 
 ---
